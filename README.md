@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- Dynamic Typing Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Ghanendra+Chakradhari;AI+%2F+ML+Engineer+%26+Developer;Building+Intelligent+Systems+%26+Tools;Crafting+Fast%2C+High-Performance+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Ghanendra+Chakradhari;Machine+Learning+%26+Systems+Engineer;Building+Scalable+AI+Pipelines+%26+Agentic+Architectures;Crafting+Fast%2C+High-Performance+Software" alt="Typing SVG" />
 
   <p align="center">
-    <strong>Computer Science (AI & ML) | Builder | Open Source</strong>
+    <strong>Machine Learning Engineer &bull; Applied AI & Systems Developer</strong>
   </p>
 
   <!-- Social Badges -->
@@ -42,7 +42,9 @@
 <h4 align="center">Tools & Platforms</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,gcp&theme=dark" alt="Tools" />
-  <img src="https://img.shields.io/badge/Ollama-05080D?style=for-the-badge&logo=ollama&logoColor=00D9FF" height="48" alt="Ollama" />
+  <a href="https://ollama.com">
+    <img src="https://img.shields.io/badge/Ollama-05080D?style=for-the-badge&logo=ollama&logoColor=00D9FF" height="48" alt="Ollama" />
+  </a>
 </p>
 
 ---
@@ -50,7 +52,9 @@
 ### Now Playing
 
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31khzoaqykmw44fh3ob2lriw6le4&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=2ac624&bar_color_cover=true" alt="Spotify Live" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31khzoaqykmw44fh3ob2lriw6le4&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=2ac624&bar_color_cover=true" alt="Spotify Live" />
+  </a>
 </div>
 
 ---
