@@ -50,7 +50,7 @@
 ### Now Playing
 
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31khzoaqykmw44fh3ob2lriw6le4&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=2ac624&bar_color_cover=true" alt="Spotify Live" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31khzoaqykmw44fh3ob2lriw6le4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false" alt="Spotify Live" />
 </div>
 
 ---
