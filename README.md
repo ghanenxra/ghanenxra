@@ -27,31 +27,33 @@
 
 ---
 
-### Live Activity
+### Tech Stack & Arsenal
 
-<div align="center">
+<h4 align="center">Languages</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css&theme=dark" alt="Languages" />
+</p>
 
-  <!-- Spotify Card -->
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31khzoaqykmw44fh3ob2lriw6le4&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=2ac624&bar_color_cover=true" alt="Spotify Live" />
+<h4 align="center">Frameworks & Machine Learning</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" alt="Frameworks & AI" />
+</p>
+
+<h4 align="center">Tools & Platforms</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,gcp&theme=dark" alt="Tools" />
+  <a href="https://ollama.com">
+    <img src="https://img.shields.io/badge/Ollama-05080D?style=for-the-badge&logo=ollama&logoColor=00D9FF" height="48" alt="Ollama" />
   </a>
-
-  <br/><br/>
-
-  <!-- Discord Lanyard Card -->
-  <a href="https://discord.com/users/1323161662739714120">
-    <img src="https://lanyard.cnrad.dev/api/1323161662739714120?theme=dark&bg=000000&animated=true&hideDiscrim=true&borderRadius=8px" alt="Discord Presence" />
-  </a>
-
-</div>
+</p>
 
 ---
 
-### Tech Stack & Arsenal
+### Now Playing
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,c,cpp,js,gcp,docker,kubernetes,git,github,vscode,linux&theme=dark&perline=7" alt="Skills" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31khzoaqykmw44fh3ob2lriw6le4&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=2ac624&bar_color_cover=true" alt="Spotify Live" />
   </a>
 </div>
 
