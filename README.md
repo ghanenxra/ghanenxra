@@ -1,10 +1,12 @@
 <div align="center">
 
   <!-- Dynamic Typing Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Ghanendra+Chakradhari;Machine+Learning+%26+Systems+Engineer;Building+Scalable+AI+Pipelines+%26+Agentic+Architectures;Crafting+Fast%2C+High-Performance+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Ghanendra+Chakradhari;Machine+Learning+Engineer;Building+Intelligent+Systems+%26+Models;Let's+build+something+cool." alt="Typing SVG" />
 
   <p align="center">
-    <strong>Machine Learning Engineer &bull; Applied AI & Systems Developer</strong>
+    <strong>Machine Learning Engineer</strong>
+    <br/>
+    <sub>Let's build something cool.</sub>
   </p>
 
   <!-- Social Badges -->
@@ -31,7 +33,7 @@
 
 <h4 align="center">Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,c&theme=dark" alt="Languages" />
 </p>
 
 <h4 align="center">Frameworks & Machine Learning</h4>

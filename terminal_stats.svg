@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" width="100%" height="320">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 270" width="100%" height="270">
   <defs>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&amp;display=swap');
@@ -8,41 +8,31 @@
       .dot-yellow { fill: #F5BF4F; }
       .dot-green { fill: #62C554; }
       .text-title { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 13px; fill: #8B949E; }
-      .prompt-user { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 14px; font-weight: 700; fill: #58A6FF; }
-      .prompt-path { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 14px; font-weight: 700; fill: #7EE787; }
-      .prompt-cmd { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 14px; fill: #E6EDF3; }
       .label { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 13px; font-weight: 700; fill: #D29922; }
       .key { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 13px; fill: #8B949E; }
       .val-bright { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 13px; font-weight: 700; fill: #58A6FF; }
       .val-green { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 13px; font-weight: 700; fill: #7EE787; }
       .val-text { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 13px; fill: #C9D1D9; }
+      .val-highlight { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 13px; font-weight: 700; fill: #00D9FF; }
       .accent-box { fill: #161B22; stroke: #30363D; stroke-width: 1px; rx: 6px; }
-      .claude-tag { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 11px; font-weight: 700; fill: #D97757; }
+      .tag-orange { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 12px; font-weight: 700; fill: #D97757; }
     </style>
   </defs>
 
   <!-- Terminal Window Background -->
-  <rect x="1" y="1" width="798" height="318" class="term-bg" />
+  <rect x="1" y="1" width="798" height="268" class="term-bg" />
   
   <!-- Terminal Top Bar -->
-  <path d="M 1 11 C 1 5.5 5.5 1 11 1 L 789 1 C 794.5 1 799 5.5 799 11 L 799 38 L 1 38 Z" class="term-header" />
-  <circle cx="22" cy="20" r="6" class="dot-red" />
-  <circle cx="42" cy="20" r="6" class="dot-yellow" />
-  <circle cx="62" cy="20" r="6" class="dot-green" />
-  <text x="400" y="24" text-anchor="middle" class="text-title">ghanenxra@acer-nitro: ~/github-activity</text>
-
-  <!-- Prompt Command -->
-  <text x="24" y="68">
-    <tspan class="prompt-user">ghanenxra</tspan>
-    <tspan class="text-title">@</tspan>
-    <tspan class="prompt-path">nitro:~$</tspan>
-    <tspan class="prompt-cmd"> git stats --hardcoded --format=full</tspan>
-  </text>
+  <path d="M 1 11 C 1 5.5 5.5 1 11 1 L 789 1 C 794.5 1 799 5.5 799 11 L 799 36 L 1 36 Z" class="term-header" />
+  <circle cx="20" cy="18" r="6" class="dot-red" />
+  <circle cx="38" cy="18" r="6" class="dot-yellow" />
+  <circle cx="56" cy="18" r="6" class="dot-green" />
+  <text x="400" y="23" text-anchor="middle" class="text-title">ghanenxra@dev-machine: ~</text>
 
   <!-- Left Column: Activity & Contributions -->
-  <g transform="translate(24, 88)">
-    <rect x="0" y="0" width="360" height="200" class="accent-box" />
-    <text x="16" y="28" class="label">[ENGINEERING_METRICS]</text>
+  <g transform="translate(24, 52)">
+    <rect x="0" y="0" width="360" height="196" class="accent-box" />
+    <text x="16" y="28" class="label">[ACTIVITY_METRICS]</text>
     
     <text x="16" y="60" class="key">Total Contributions :</text>
     <text x="200" y="60" class="val-bright">545</text>
@@ -53,31 +43,31 @@
     <text x="16" y="116" class="key">Current Streak      :</text>
     <text x="200" y="116" class="val-green">11 Days (Active)</text>
 
-    <text x="16" y="144" class="key">Code Velocity       :</text>
+    <text x="16" y="144" class="key">Velocity            :</text>
     <text x="200" y="144" class="val-green">High (Daily Pushes)</text>
     
-    <text x="16" y="172" class="key">Profile State       :</text>
-    <text x="200" y="172" class="claude-tag">VERIFIED_BUILDER</text>
+    <text x="16" y="172" class="key">Status              :</text>
+    <text x="200" y="172" class="val-highlight">Active Building</text>
   </g>
 
   <!-- Right Column: System Specs & Focus -->
-  <g transform="translate(414, 88)">
-    <rect x="0" y="0" width="360" height="200" class="accent-box" />
+  <g transform="translate(414, 52)">
+    <rect x="0" y="0" width="360" height="196" class="accent-box" />
     <text x="16" y="28" class="label">[SYSTEM_PROFILE]</text>
     
-    <text x="16" y="60" class="key">Specialization :</text>
-    <text x="150" y="60" class="val-text">Applied Machine Learning</text>
+    <text x="16" y="60" class="key">Role           :</text>
+    <text x="140" y="60" class="val-bright">Machine Learning Engineer</text>
     
     <text x="16" y="88" class="key">Primary Stack  :</text>
-    <text x="150" y="88" class="val-text">Python, C++, PyTorch, CUDA</text>
+    <text x="140" y="88" class="val-text">Python, PyTorch, TensorFlow</text>
     
-    <text x="16" y="116" class="key">Architectures  :</text>
-    <text x="150" y="116" class="val-text">Vision, Agentic AI, MLOps</text>
+    <text x="16" y="116" class="key">Domains        :</text>
+    <text x="140" y="116" class="val-text">Deep Learning, Vision, Agents</text>
 
-    <text x="16" y="144" class="key">Local Runtime  :</text>
-    <text x="150" y="144" class="val-text">Ollama, Docker, Linux</text>
+    <text x="16" y="144" class="key">Tools          :</text>
+    <text x="140" y="144" class="val-text">Ollama, Docker, GCP, Git</text>
     
-    <text x="16" y="172" class="key">Core Philosophy:</text>
-    <text x="150" y="172" class="val-text">Code over talk. Ship tools.</text>
+    <text x="16" y="172" class="key">Mindset        :</text>
+    <text x="140" y="172" class="tag-orange">Let's build something cool.</text>
   </g>
 </svg>
