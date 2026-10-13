@@ -59,11 +59,10 @@
 
 ---
 
-### GitHub Insights
+### Activity & Terminal Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghanenxra&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=ghanenxra&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
+  <img src="./terminal_stats.svg" alt="Terminal Metrics" width="800" />
 </div>
 
 ---
